@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Our Mission
 
-At GutzAnalytics, we gut and we analytics.
+Leveraging AI to fight chronic disease.
