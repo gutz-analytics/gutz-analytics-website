@@ -10,4 +10,5 @@ show_call_box: true
 
 # Gutz Analytics
 
-
+## Generative AI to fight chronic disease
+and we have the guts to do it
