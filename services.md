@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Our Mission
 
-Leveraging AI to fight chronic disease.
+Leveraging Multi-modal AI to fight chronic disease.
