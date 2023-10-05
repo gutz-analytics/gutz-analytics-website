@@ -12,7 +12,7 @@ We will run standard alpha / beta diversity and differential abundance analyses 
 We will provide the option to develop customized differential abundance workflows using [Birdman](https://github.com/biocore/BIRDMAn) to allow you fit longitudinal models using state-of-the-art Bayesian modeling techniques to boost statistical power.
 
 ### Dynamical AI modeling
-We will train dynamical AI models to identify causal pathways and predict patient outcomes from multi-omics data in your observation cohorts and clinical trials. By leveraging tens of thousands of samples in our internal database, we can boost statistical power and leverage deep neural networks to enable non-linear dynamical modeling on sparsely sampled multi-omics data.
+We will train dynamical AI models to identify causal pathways and predict patient outcomes from multi-omics data in your observational cohorts and clinical trials. By leveraging tens of thousands of samples in our internal database, we can boost statistical power and leverage deep neural networks to enable non-linear dynamical modeling on sparsely sampled multi-omics data.
 
 
 [Contact us](https://gutzanalytics.com/contact/) to request a demo!
