@@ -13,23 +13,21 @@ Our team brings together leading experts in the field of Generative Multi-omics 
   <tr>
     <td><img src="../images/team/jamie.jpg" alt="jamie.jpg" width="200" height="200"/></td>
     <td><img src="../images/team/lars.jpeg" alt="lars.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/gibs.jpg" alt="gibs.jpg" width="200" height="200"/></td>
+    <td><img src="../images/team/jon.jpeg" alt="jon.jpeg" width="200" height="200"/></td>
   </tr>
   <tr>
     <td style="text-align:center">James Morton <br> CEO </td>
     <td style="text-align:center">Lars Hunger <br> AI engineer</td>
-    <td style="text-align:center">Gibraan Rahman <br> Computational Biologist</td>
+    <td style="text-align:center">Jon Sanders <br> Computational Biologist</td>
   </tr>
 
   <tr>
     <td><img src="../images/team/jenya.jpeg" alt="jenya.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/jon.jpeg" alt="jon.jpeg" width="200" height="200"/></td>
     <td><img src="../images/team/alexey.jpg" alt="alexey.jpg" width="200" height="200"/></td>
     <td><img src="../images/team/alex.jpeg" alt="alex.jpeg" width="200" height="200"/></td>
   </tr>
   <tr>
     <td style="text-align:center">Evguenia Kopylova<br> Bioinformatics advisor</td>
-    <td style="text-align:center">Jon Sanders <br> Metagenomics advisor</td>
     <td style="text-align:center">Alexey Melnik <br> Metabolomics advisor</td>
     <td style="text-align:center">Alexander Aksenov <br> Scientific advisor</td>
   </tr>
