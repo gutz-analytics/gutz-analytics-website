@@ -10,5 +10,6 @@ show_call_box: true
 
 # Gutz Analytics
 
-## Generative AI to fight chronic disease
+### Mission : Accelerate and derisk diagnostics and biologics design using accurate Gutz-based AI technologies, to enable biotechnology institutions to improve human health and living conditions
+
 and we have the guts to do it
